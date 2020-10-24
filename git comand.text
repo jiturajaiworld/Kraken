@@ -1,0 +1,12 @@
+#git init(initiate repository)
+#git add . 
+# git commit -m "your message"
+# git log(hit 'q' to exit)
+# git checkout(with license copied)
+
+
+##git remote command
+#git remote add origin (followed by usrl)
+#git remote -v
+#git push origin master
+# git pull oringin master
