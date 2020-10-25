@@ -10,3 +10,4 @@
 #git remote -v
 #git push origin master
 # git pull oringin master
+# git clone (url)
